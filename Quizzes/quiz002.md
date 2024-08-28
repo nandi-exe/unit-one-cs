@@ -14,6 +14,7 @@ if num1 == 20 or num2 == 20:
     present = True
 elif sum == 20:
     present = True
+print(present)
 
 ```
 ## Proof Of Work
