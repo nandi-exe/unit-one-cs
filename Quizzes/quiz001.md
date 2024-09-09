@@ -5,13 +5,13 @@ MD files markdown documents, use symbols to change the format. Learn more here:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
-##Paper Solution
-##solved on paper
+## Paper Solution
+## solved on paper
 
 
-##Code
+## Code
 ```.py
 print("Hello World")
-
-##Proof of Work
+```
+## Proof of Work
 More proof that my solution works (Photo of program in operation)
