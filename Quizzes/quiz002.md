@@ -3,6 +3,9 @@
 
 ## Paper Solution
 
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/584e19c7-4977-407a-9d60-3b1f3073b53b">
+
+
 ## Code
 
 ```.py
