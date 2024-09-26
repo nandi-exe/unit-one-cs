@@ -44,3 +44,50 @@ All the data in my program with be stored using .csv files
 
 
 ### Record of Tasks
+
+| Task Number | Planned Action                     | Planned Outcome                                                                                                    |   | Time estimated | Target Completion Date |   |
+|-------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------|---|----------------|------------------------|---|
+| 1           | First Meeting with the client      | Obtained a problem definition                                                                                      |   | 10 min         | 7 Sept 2024            |   |
+| 2           | Working on program plan and design | Have a defined structure                                                                                           |   | 25 min         | 9 Sept 2024            |   |
+| 3           | 2nd meeting with client            | Present a potential solution to client; Check to see if they are satifsied with said solution                      |   | 15 min         | 12 Sept 2024           |   |
+| 4           | Development Phase 1: Prototyping   | Code a working prototype of of the address book/password manager                                                   |   | 6-12 hours     | 16 Sept 2024           |   |
+| 5           | Testing Phase 1: Internal          | Perform alpha testing and black-box testing on the prototype; Not any edits and changes to be made where necessary |   | 4-5 hours      | 18 Sept 2024           |   |
+| 6           | Testing Phase 2: Peer Review       | Invite fellow developers to test out the prototype; Make note of all errors and correct accordingly                |   | 4-5 hours      | 20 Sept 2024           |   |
+|  7          | Development Phase 2: Final Draft   | Correct any and all errors found during testing; Produce a final version of the program                            |   | 4-10 hours     | 22 Sept 2024           |   |
+|  8          |  Client Presentation and Handover  | Final Product is handed over to client for final examination; Client testing                                       |   | 10 min        |                        |   |
+|             |                                    |                                                                                                                    |   |                |                        |   |
+
+
+| Task Number | Planned Action                     | Planned Outcome                                                                                                    |   | Time estimated | Target Completion Date |   |
+|-------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------|---|----------------|------------------------|---|
+| 1           | First Meeting with the client      | Obtained a problem definition                                                                                      |   | 10 min         | 7 Sept 2024            |   |
+| 2           | Working on program plan and design | Have a defined structure                                                                                           |   | 25 min         | 9 Sept 2024            |   |
+| 3           | 2nd meeting with client            | Present a potential solution to client; Check to see if they are satifsied with said solution                      |   | 15 min         | 12 Sept 2024           |   |
+| 4           | Development Phase 1: Prototyping   | Code a prototype of                                                                                                |   | 6-12 hours     | 16 Sept 2024           |   |
+|             | Testing Phase 1: Internal          | Perform alpha testing and black-box testing on the prototype; Not any edits and changes to be made where necessary |   | 4-5 hours      | 18 Sept 2024           |   |
+|             | Testing Phase 2: Peer Review       | Invite fellow developers to test out the prototype; Make note of all errors and correct accordingly                |   | 4-5 hours      | 20 Sept 2024           |   |
+|             | Development Phase 2: Final Draft   | Correct any and all errors found during testing; Produce a final version of the program                            |   | 4-10 hours     | 22 Sept 2024           |   |
+|             |  Client Presentation and Handover  | Final Product is handed over to client for final examination; Client testing                                       |   |                |                        |   |
+|             |                                    |                                                                                                                    |   |                |                        |   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
