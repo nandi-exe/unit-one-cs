@@ -83,8 +83,7 @@ All the data in my program with be stored using .csv files, that are generated a
 
 ### Proof of Funtionality Video
 
-![D2CEF04A-434A-4043-AEFC-F253BBA22C58_1_102_o](https://github.com/user-attachments/assets/c9413919-c555-4a34-bf28-f30d2d737282)
-
+[Video uploaded separately within folder]
 
 
 
