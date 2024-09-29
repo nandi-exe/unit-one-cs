@@ -81,10 +81,9 @@ All the data in my program with be stored using .csv files, that are generated a
 | 10.  | 3. Basic Security Features - Implementing a basic obfuscation technique or basic encryption (e.g., reversing the password string or shifting characters by a fixed number) | Successful |
 | 11.  | 4. Store the in their encrypted form, using a .csv file.                                                                                                                   | Successful |
 
+### Proof of Funtionality Video
 
-
-
-
+![D2CEF04A-434A-4043-AEFC-F253BBA22C58_1_102_o](https://github.com/user-attachments/assets/c9413919-c555-4a34-bf28-f30d2d737282)
 
 
 
