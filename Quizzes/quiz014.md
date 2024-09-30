@@ -4,6 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/0fff008b-b4fa-4ba8-b55c-12d1b8e688aa)
 
+## Flowchart
+
+![image](https://github.com/user-attachments/assets/7439cb91-6ce0-4dfd-bdf2-b2dab6a625c3)
+
+
 ## Code
 ```
 def open_doors(num_students):
