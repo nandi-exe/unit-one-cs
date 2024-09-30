@@ -9,20 +9,21 @@
 def open_doors(num_students):
     open_doors = 0
     door_status = []
- 
+
     num_doors = num_students
     for count in range(num_doors):
         door_status.append(1)
+        open_doors = open_doors + 1
 
     jump = 2
     while jump <= num_students:
-        for count in range(jump - 1, num_doors, jump):  
-            if door_status[count] == 1:  
+        for count in range(1, num_doors, jump):
+            if door_status[count] == 1:
                 door_status[count] = 0
-                open_doors += 1
-            else:  
+                open_doors = open_doors - 1
+            else:
                 door_status[count] = 1
-                open_doors -= 1
+                open_doors = open_doors + 1
 
         jump += 1
 
@@ -31,6 +32,8 @@ def open_doors(num_students):
 ```
 ## Proof of Work
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/301a8548-feb6-435f-97b4-30675bdec776">
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/cf92db8d-81db-4f11-8927-d1a20c49e1a4">
+
+
 
 
