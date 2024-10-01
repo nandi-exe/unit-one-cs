@@ -18,5 +18,6 @@ def mystery(num1:int,num2:int):
 
 ## Flowchart
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/835a33a6-122e-4a3c-87d7-50f3440af50a">
+![image](https://github.com/user-attachments/assets/0914f0de-6903-42f9-a05c-30384a120988)
+
 
