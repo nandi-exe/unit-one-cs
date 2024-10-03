@@ -2,7 +2,12 @@
 
 ## Paper Solution
 
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/ae71e564-6bfb-4740-953e-bb7707b7437a">
+
 ## Flowchart
+
+![quiz009 drawio](https://github.com/user-attachments/assets/2b2bb152-616d-411f-93c3-340144b792f8)
+
 
 ## Code
 
