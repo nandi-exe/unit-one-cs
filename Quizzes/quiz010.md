@@ -2,7 +2,8 @@
 
 ## Paper Solution
 
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/ae71e564-6bfb-4740-953e-bb7707b7437a">
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/5ba2fdbe-81c8-4753-ba3c-aae37ef2aa1b">
+
 
 ## Flowchart
 
